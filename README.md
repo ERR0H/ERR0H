@@ -1,5 +1,4 @@
-
-
+![Lazydo](./images/webicon.png)   
 
 <!--
 **ERR0H/ERR0H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
