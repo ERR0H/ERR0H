@@ -1,6 +1,4 @@
-<center>
-  ![alt text]([image.jpg](https://media.discordapp.net/attachments/847421552281518121/1311101970311938118/webicon.png?ex=6747a25c&is=674650dc&hm=0963190d801e21dc3b1166773295d030464376c227841d074209cb866e6f1355&=&format=webp&quality=lossless&width=662&height=662))
-</center>
+
 
 
 <!--
