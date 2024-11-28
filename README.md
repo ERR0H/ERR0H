@@ -1,4 +1,4 @@
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/ERR..png" alt="Your Image Badge" />
 
 <!--
 **ERR0H/ERR0H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
