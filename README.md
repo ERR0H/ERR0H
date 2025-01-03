@@ -1,5 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/ERR..png" alt="Your Image Badge" />
-
 # Hi there, I'm ERR0H! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ERR0H)
