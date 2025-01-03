@@ -12,7 +12,6 @@ I'm a passionate developer who loves coding and solving problems. I enjoy workin
 - 🤔 I’m looking for help with [Any help you need]
 - 💬 Ask me about [Topics you are knowledgeable about]
 - 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: [A fun fact about yourself]
 
 ## Skills
